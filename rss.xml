@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[seanngoh]]></title>
         <description><![CDATA[seanngoh]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/seanngoh/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 12:21:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 12:26:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/seanngoh/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>test post2</p>]]></description>
+            <link>https://thegrid.ai/seanngoh/9b4412bb-0ba2-4347-abcf-a245fd4644b3/index.html</link>
+            <guid isPermaLink="false">9b4412bb-0ba2-4347-abcf-a245fd4644b3</guid>
+            <pubDate>Fri, 04 Mar 2016 12:25:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>test post</p>]]></description>
-            <link>undefinedb913693a-cae8-47af-ba25-88993179d640/index.html</link>
+            <link>https://thegrid.ai/seanngoh/b913693a-cae8-47af-ba25-88993179d640/index.html</link>
             <guid isPermaLink="false">b913693a-cae8-47af-ba25-88993179d640</guid>
             <pubDate>Fri, 04 Mar 2016 12:21:44 GMT</pubDate>
         </item>
